@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'FRANKFRT';
+  src: url('./fonts/FRANKFRT.eot'); /* IE9 Compat Modes */
+  src: url('./fonts/FRANKFRT.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/FRANKFRT.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/FRANKFRT.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/FRANKFRT.woff2') format('woff2'); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
